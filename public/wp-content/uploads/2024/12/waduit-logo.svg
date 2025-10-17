@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 44" role="img" aria-labelledby="title desc">
+  <title id="title">Waduit logo</title>
+  <desc id="desc">Compact wavy logomark with Waduit.sbs lettering</desc>
+  <defs>
+    <linearGradient id="waveGradient" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#0b6174"/>
+      <stop offset="50%" stop-color="#13a5c8"/>
+      <stop offset="100%" stop-color="#6eddf7"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#waveGradient)" d="M0 26c0-10 10-10 13 0s13 10 16 0 13-10 16 0 13 10 16 0 13-10 16 0 13 10 16 0 13-10 16 0v8c-2 6-9 6-11 0-2 6-9 6-12 0-3 6-10 6-13 0-3 6-10 6-13 0-3 6-10 6-13 0-3 6-10 6-13 0-3 6-10 6-13 0-3 6-10 6-13 0z"/>
+  <g font-family="'Poppins', 'Helvetica Neue', Arial, sans-serif" font-weight="600" dominant-baseline="middle">
+    <text x="42" y="22" font-size="18" fill="#082f48">Wa</text>
+    <text x="69" y="22" font-size="18" fill="#082f48">duit</text>
+    <text x="110" y="22" font-size="9.5" fill="#ffffff">.sbs</text>
+  </g>
+</svg>
